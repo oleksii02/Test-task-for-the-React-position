@@ -1,0 +1,22 @@
+
+.FactCheckOut {
+    position: fixed;
+    color: #463897;
+    padding: 15px;
+    background-color: #D6E3FF;
+    border-radius: 100%
+}
+
+.TextInfo {
+    padding-left: 90px;
+    margin-left: 10px;
+}
+
+p {
+    color: grey;
+}
+
+.btn-wrapper-end {
+    display: flex;
+    justify-content: flex-end;
+}
